@@ -1,10 +1,7 @@
-<header background="#333">
   <h1 align="center"> <img src="./github/logo.png" alt="logo" /> Orçamentos Pessoais </h1>
-</header>
 
 <h3 align="center"> Para cadastrar e consultar seus gastos pessoais! </h3>
 
-<br />
 <br />
 
 <p align="center">
@@ -13,7 +10,6 @@
   </a>
 </p>
 
-<br />
 <br />
 
 <div>
