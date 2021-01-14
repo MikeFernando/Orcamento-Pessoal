@@ -1,6 +1,6 @@
 <h1 align="center"> Orçamentos Pessoais </h1>
 
-<h3 align="center"> Aplicação javascript estilizada com Bootstrap para cadastrar e consultar registros salvos em localstorage do navegador </h3>
+<h3 align="center"> Para cadastrar e consultar seus gastos pessoais! </h3>
 
 <p align="center">
   <a href="https://mike-fernando-discord-clone.netlify.app" target="_blank">
