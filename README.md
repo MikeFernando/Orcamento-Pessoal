@@ -3,7 +3,7 @@
 <h3 align="center"> Para cadastrar e consultar seus gastos pessoais! </h3>
 
 <p align="center">
-  <a href="https://mike-fernando-discord-clone.netlify.app" target="_blank">
+  <a href="https://mikefernando-orcamentos-pessoal.netlify.app/index.html" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/LukeMorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
