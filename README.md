@@ -1,4 +1,4 @@
-<h1 align="center"> Orçamentos Pessoais </h1>
+<h1 align="center"> <img src="./github/logo.png" alt="logo" /> Orçamentos Pessoais </h1>
 
 <h3 align="center"> Para cadastrar e consultar seus gastos pessoais! </h3>
 
