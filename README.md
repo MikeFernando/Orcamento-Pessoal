@@ -9,7 +9,7 @@
 </p>
 
 <div>
-   <img src="./github/app.gif" alt"app" />
+   <img src="./github/orcamento.gif" alt"app" />
 </div>
 
 
